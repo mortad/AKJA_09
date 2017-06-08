@@ -329,6 +329,6 @@ return {
   run = run,
   pre_process = pre_process
 }
---By @imandaneshi :)
+--By @pompm :)
 --https://github.com/SEEDTEAM/TeleSeed/blob/test/plugins/admin.lua
----Modified by @Rondoozle for supergroups
+---Modified by @pompm for supergroups
